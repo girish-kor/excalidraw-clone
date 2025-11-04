@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   keywords: ["Excalidraw", "Whiteboard", "Collaboration", "Diagrams"],
-  authors: [{ name: "Your Name", url: "https://yourdomain.com" }],
+  authors: [{ name: "Your Name", url: "https://miniproject.in" }],
   creator: "Your Name",
   metadataBase: new URL(siteConfig.url),
   openGraph: {

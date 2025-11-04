@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://excalidraw.yourdomain.com/sitemap.xml
+Sitemap: https://excalidraw.miniproject.in/sitemap.xml
