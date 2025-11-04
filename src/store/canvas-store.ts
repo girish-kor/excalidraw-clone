@@ -20,6 +20,7 @@ interface CanvasActions {
   redo: () => void;
   canUndo: boolean;
   canRedo: boolean;
+  updateUndoRedoState: () => void;
 }
 
 const initialState: Omit<CanvasState, 'history' | 'historyIndex'> = {
